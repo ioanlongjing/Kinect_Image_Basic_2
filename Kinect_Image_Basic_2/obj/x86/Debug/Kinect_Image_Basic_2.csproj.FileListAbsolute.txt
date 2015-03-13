@@ -1,0 +1,11 @@
+D:\Kinect\Kinect_Image_Basic_2\Kinect_Image_Basic_2\bin\Debug\Kinect_Image_Basic_2.exe
+D:\Kinect\Kinect_Image_Basic_2\Kinect_Image_Basic_2\bin\Debug\Kinect_Image_Basic_2.pdb
+D:\Kinect\Kinect_Image_Basic_2\Kinect_Image_Basic_2\obj\x86\Debug\MainWindow.baml
+D:\Kinect\Kinect_Image_Basic_2\Kinect_Image_Basic_2\obj\x86\Debug\MainWindow.g.cs
+D:\Kinect\Kinect_Image_Basic_2\Kinect_Image_Basic_2\obj\x86\Debug\App.g.cs
+D:\Kinect\Kinect_Image_Basic_2\Kinect_Image_Basic_2\obj\x86\Debug\Kinect_Image_Basic_2_MarkupCompile.cache
+D:\Kinect\Kinect_Image_Basic_2\Kinect_Image_Basic_2\obj\x86\Debug\Kinect_Image_Basic_2.g.resources
+D:\Kinect\Kinect_Image_Basic_2\Kinect_Image_Basic_2\obj\x86\Debug\Kinect_Image_Basic_2.Properties.Resources.resources
+D:\Kinect\Kinect_Image_Basic_2\Kinect_Image_Basic_2\obj\x86\Debug\Kinect_Image_Basic_2.csproj.GenerateResource.Cache
+D:\Kinect\Kinect_Image_Basic_2\Kinect_Image_Basic_2\obj\x86\Debug\Kinect_Image_Basic_2.exe
+D:\Kinect\Kinect_Image_Basic_2\Kinect_Image_Basic_2\obj\x86\Debug\Kinect_Image_Basic_2.pdb
